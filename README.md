@@ -2,6 +2,12 @@
 
 TelNot is a playful server application that mimics a Telnet server with a twist. It's designed to amuse tech enthusiasts and frustrate potential intruders.
 
+## Demo
+
+![TelNot Demo](telnot-demo.gif)
+
+This animation demonstrates how it looks from the client's side - showing how it sends colorful ANSI text files byte-by-byte with random delays. Yes, it is a feature, not a bug.
+
 ## Features
 
 - Simulates a Telnet server

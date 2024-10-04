@@ -48,7 +48,7 @@ sudo setcap cap_net_bind_service=+ep ./TelNot
 
 ### Credit
 
-Currently using art from [NNBnh's ansi project](https://github.com/NNBnh/ansi). If you're copying, say so.
+Currently using art from [NNBnh's ansi project](https://github.com/NNBnh/ansi). Thanks!
 
 ## License
 

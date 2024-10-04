@@ -1,6 +1,6 @@
 # TelNot
 
-TelNot is a playful server application that mimics a Telnet server with a twist. It's designed to amuse tech enthusiasts and frustrate potential intruders.
+TelNot: The Telnet server that's not quite right. Hopefully confusing to blackhats and amusing to geeks.
 
 ## Demo
 
